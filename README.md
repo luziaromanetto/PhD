@@ -9,7 +9,7 @@
 
 ## week 07/08 to 11/08
 > - read the paper *A Parameter-Free Label Propagation Algorithm Using Bipartite Heterogeneous Networks for Text Classification*
-> > In this paper is propose a transductive method that model documents and terms as a bipartet graph, and build a matrix of wheights from that. With the wheight matrix they build a new stocastic matrix based, with this matrix the run a fixed-point method and shows that this method perform in many cases perform better than others stat of art methods.
+> > In this paper is propose a transductive method that model documents and terms as a bipartite graph, and build a matrix of weights from that. With the weight matrix they build a new stochastic matrix based, with this matrix the run a fixed-point method and shows that this method perform in many cases perform better than others methods.
 > > **Notes :** 
 > > - I think the proof of convergence is missing a few steps.
 > > - I think the comparison with SVM did not use the right parameters, but that would be a further work in producing the article.
@@ -18,4 +18,4 @@
 > - worked in the WVIS paper
 > - read first chapter of text mining book
 > - read part of Thiago Theses
-> - requared inscription in network minning
+> - request inclusion of the discipline: complex network mining
