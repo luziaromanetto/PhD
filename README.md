@@ -9,7 +9,7 @@
 
 ## week 07/08 to 11/08
 > - read the paper *A Parameter-Free Label Propagation Algorithm Using Bipartite Heterogeneous Networks for Text Classification*
-> > In this paper is propose a transductive method that model documents and terms as a bipartite graph, and build a matrix of weights from that. With the weight matrix they build a new stochastic matrix based, with this matrix the run a fixed-point method and shows that this method perform in many cases perform better than others methods.
+> > In this paper is propose a transductive method that model documents and terms as a bipartite graph, and build a matrix of weights from that. With the weight matrix, they build a new stochastic matrix, with this matrix and some labeled documents the run a fixed-point method to propagate the label and estimate the label of unlabeled documents and shows that this method performs in many cases perform better than others methods.
 > > **Notes :** 
 > > - I think the proof of convergence is missing a few steps.
 > > - I think the comparison with SVM did not use the right parameters, but that would be a further work in producing the article.
