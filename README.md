@@ -4,6 +4,7 @@
 > - read the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
 > - read the unpublished paper
 > - talk with Alneu about the project.
+> - look for a image dataset to test the Alneu idea of thest the PBG in this context.   
 
 ## week 07/08 to 11/08
 > - reading the paper *Optimization and label propagation in bipartite heterogeneous networks to improve transductive classification of texts*
