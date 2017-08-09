@@ -7,8 +7,9 @@
 > - look for a image dataset to test the Alneu idea of thest the PBG in this context.   
 
 ## week 07/08 to 11/08
-> - reading the paper *Optimization and label propagation in bipartite heterogeneous networks to improve transductive classification of texts*
+> - read the paper *Optimization and label propagation in bipartite heterogeneous networks to improve transductive classification of texts*
 > > This paper propose the transductive method named TCBHN, that is based on the minimization of a objective function that is builded over the assumtion *that the information of documents in Dl and Du are useful to induce the class information of th terms, and the induced class information for the terms aids the improvement of the class information of documents in Du*.
+> > This paper is really intersting because they run a large amont of tests and comper many transductive methods, thy show that the proposed method is better or equivalent to state of art methods. **They perform statisticals methods to ensure the results**, that is a good pratice.
 > > **Notes :** 
 > > - I don't understand way the cost function have the exponent 2 outside of the summantion, I think that his may cause an error cancellation and no the optimal result.
 > - read about and organize the benchmarking text collections ( see the paper from Rossi )
