@@ -1,12 +1,14 @@
 # PhD
 
 ### TODO list:
-> - read the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
 > - read the unpublished paper
 > - talk with Alneu about the project.
-> - look for a image dataset to test the Alneu idea of thest the PBG in this context.   
+> - test the Alneu ideas with PBG in the face databases.    
 
 ## week 07/08 to 11/08
+> - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
+> - look for a image dataset to test the Alneu idea of thest the PBG in this context.
+> > Dwnloading th datasts available in: http://www.face-rec.org/databases/
 > - read the paper *Optimization and label propagation in bipartite heterogeneous networks to improve transductive classification of texts*
 > > This paper propose the transductive method named TCBHN, that is based on the minimization of a objective function that is builded over the assumtion *that the information of documents in Dl and Du are useful to induce the class information of th terms, and the induced class information for the terms aids the improvement of the class information of documents in Du*.
 > > This paper is really intersting because they run a large amont of tests and comper many transductive methods, thy show that the proposed method is better or equivalent to state of art methods. **They perform statisticals methods to ensure the results**, that is a good pratice.
