@@ -1,9 +1,16 @@
 # PhD
 
 ### TODO list:
-> - read the unpublished paper
-> - talk with Alneu about the project.
+> - read the unpublished paper;
+> - read the rossi new paper;
+> - talk with Alneu about the project;
+> - write the project;
+> - see the paper in tidea;
 > - test the Alneu ideas with PBG in the face databases.    
+
+## week 14/08 to 18/08
+> - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
+> - trying to install linux on my new computer.
 
 ## week 07/08 to 11/08
 > - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
