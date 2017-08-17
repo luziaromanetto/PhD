@@ -1,16 +1,23 @@
 # PhD
 
 ### TODO list:
-> - read the unpublished paper;
-> - read the rossi new paper;
+> - read the rossi new paper, to understand the cost function in the other paper;
 > - talk with Alneu about the project;
 > - write the project;
 > - see the paper in tidea;
-> - test the Alneu ideas with PBG in the face databases.    
+> - test the Alneu ideas with PBG in the face databases.
 
 ## week 14/08 to 18/08
-> - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
-> - trying to install linux on my new computer.
+> - trying to install linux on my new computer;
+> > This has taken me too much time.
+> - reading the unpublished paper;
+> - testing PBG implementation to use that in images;
+> > Need to finish to read the unpublished paper to understand the implementation, but I already undertood have give the imput graph.
+> - read the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
+> > Interesting paper has a transductive method to classify documents and terms, base on a subset of labeled documents.
+> > **Note**
+> > - I didn't understand the need for de Cji, the paper say that it is for terms that has many meaning in a same document, but I didn't understand this.
+
 
 ## week 07/08 to 11/08
 > - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
