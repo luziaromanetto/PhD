@@ -6,6 +6,11 @@
 > - write the project;
 > - see the paper in tidea;
 
+## week 21/08 to 25/08
+> - Finishing code for BGP
+> > Good results
+> - read the unpublished paper;
+  
 ## week 14/08 to 18/08
 
 > - trying to install linux on my new computer;
