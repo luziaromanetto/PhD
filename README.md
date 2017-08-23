@@ -10,6 +10,7 @@
 > - choosing the paper for the lecture;
 > - Finish code for BG;
 > > Good results
+> > Thinking in comper with LDA
 > - read the unpublished paper;
   
 ## week 14/08 to 18/08
