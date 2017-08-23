@@ -3,11 +3,12 @@
 ### TODO list:
 > - read the rossi new paper, to understand the cost function in the other paper;
 > - talk with Alneu about the project;
-> - write the project;
 > - see the paper in tidea;
 
 ## week 21/08 to 25/08
-> - Finishing code for BGP
+> - writing the new project;
+> - choosing the paper for the lecture;
+> - Finish code for BG;
 > > Good results
 > - read the unpublished paper;
   
