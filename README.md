@@ -7,7 +7,7 @@
 
 ## week 21/08 to 25/08
 > - writing the new project;
-> - choosing the paper for the lecture;
+> - choose the paper for the lecture;
 > - Finish code for BG;
 > > Good results
 > > Thinking in comper with LDA
