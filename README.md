@@ -7,7 +7,7 @@
 
 ## week 21/08 to 25/08
 > - writing the new project;
-> - choose the paper for the lecture;
+> - reading "Graph Regularized Transductive Classification on Heterogeneous Information Networks", for lecture.
 > - Finish code for BG;
 > > Good results
 > > Thinking in comper with LDA
