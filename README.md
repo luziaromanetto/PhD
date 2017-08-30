@@ -3,7 +3,6 @@
 ### TODO list:
 > - read the rossi new paper, to understand the cost function in the other paper;
 > - talk with Alneu about the project;
-> - see the paper in tidea;
 > - read in details the famous paper "Learning with local and global consistence";
 
 ## week 28/08 to 01/09
