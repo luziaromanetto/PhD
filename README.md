@@ -4,12 +4,18 @@
 > - read the rossi new paper, to understand the cost function in the other paper;
 > - talk with Alneu about the project;
 > - read in details the famous paper "Learning with local and global consistence";
+> - read Rossi Theses
+> - read Thiago Theses
 
 ## week 28/08 to 01/09
-> - writing the lecture about readed paper;
+> - reading "A Survey of Heterogeneous Information Network Analysis"
+> - working in tests of BPG with faces images;
+> > - It works for digits database, but not in the chineses faces yet;
+> - writing the new project;
+> - lecture about readed paper;
 > - studing about statistics;
 > - read "Graph Regularized Transductive Classification on Heterogeneous Information Networks", for lecture;
-> - writing the new project;
+
 
 ## week 21/08 to 25/08
 > - writing the new project;
