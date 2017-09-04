@@ -7,6 +7,10 @@
 > - read Rossi Theses
 > - read Thiago Theses
 
+## week 04/09 to 08/09
+> - working on the course project.
+> - reading "A Survey of Heterogeneous Information Network Analysis"
+
 ## week 28/08 to 01/09
 > - reading "A Survey of Heterogeneous Information Network Analysis"
 > - working in tests of BPG with faces images;
