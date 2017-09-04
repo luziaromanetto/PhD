@@ -1,20 +1,20 @@
 # PhD
 
-### TODO list:
+## TODO list:
 > - read the rossi new paper, to understand the cost function in the other paper;
 > - talk with Alneu about the project;
 > - read in details the famous paper "Learning with local and global consistence";
 > - read Rossi Theses
 > - read Thiago Theses
 
-# Think about:
+## Think about:
 > - In tersor decomposition we focous on objects representation but not much in the relation of the objects like in the field of heterogeneous network, but the concept of schema network is very close to network graphs, for me this to adeas can be combineted to generete new decomposition or solve some problems of one field with thecniques of the other, or to generate syntetic data tensor.
 
-## week 04/09 to 08/09
+### week 04/09 to 08/09
 > - working on the course project.
 > - reading "A Survey of Heterogeneous Information Network Analysis"
 
-## week 28/08 to 01/09
+### week 28/08 to 01/09
 > - reading "A Survey of Heterogeneous Information Network Analysis"
 > - working in tests of BPG with faces images;
 > > - It works for digits database, but not in the chineses faces yet;
@@ -24,7 +24,7 @@
 > - read "Graph Regularized Transductive Classification on Heterogeneous Information Networks", for lecture;
 
 
-## week 21/08 to 25/08
+### week 21/08 to 25/08
 > - writing the new project;
 > - reading "Graph Regularized Transductive Classification on Heterogeneous Information Networks", for lecture.
 > - Finish code for BG;
@@ -32,7 +32,7 @@
 > > Thinking in comper with LDA
 > - read the unpublished paper;
   
-## week 14/08 to 18/08
+### week 14/08 to 18/08
 
 > - trying to install linux on my new computer;
 > > This has taken me too much time.
@@ -46,7 +46,7 @@
 > > - I didn't understand the need for de Cji, the paper say that it is for terms that has many meaning in a same document, but I didn't understand this.
 
 
-## week 07/08 to 11/08
+### week 07/08 to 11/08
 > - reading the paper *Optimizing the class information divergence for transductive classification of texts using propagation in bipartite graphs*
 > - look for a image dataset to test the Alneu idea of thest the PBG in this context.
 > > Dwnloading th datasts available in: http://www.face-rec.org/databases/
@@ -65,7 +65,7 @@
 > > - I think the proof of convergence is missing a few steps.
 > > - I think the comparison with SVM did not use the right parameters, but that would be a further work in producing the article.
 
-## week 31/07 to 04/08
+### week 31/07 to 04/08
 > - worked in the WVIS paper
 > - read first chapter of text mining book
 > - read part of Thiago Theses
