@@ -10,9 +10,12 @@
 ## Think about:
 > - In tersor decomposition we focous on objects representation but not much in the relation of the objects like in the field of heterogeneous network, but the concept of schema network is very close to network graphs, for me this to adeas can be combineted to generete new decomposition or solve some problems of one field with thecniques of the other, or to generate syntetic data tensor.
 
+### week 25/09 to 29/09
+> - reading "A Heterogeneous Label Propagation Algorithm for Disease Gene Discovery"
+
 ### week 18/09 to 21/09
-> - working on the course project.
-> - Finishing the DBLP pre-processing
+> - work on the course project. Finished.
+> - Finishing the DBLP pre-processing.
 
 ### week 11/09 to 15/09
 > - read "HetPathMine: A Novel Transductive Classification Algorithm on Heterogeneous Information Networks" to the project
